@@ -1,0 +1,20 @@
+Masters of Science in Data Science (STEM)
+
+Program Overview -
+The Master of Science in Data Science (MS-DS) program at UNT is designed to address the current market needs for highly skilled data science and data analytics professionals. The program is designed to help graduates gain skills and experience in designing, implementing, and transforming data sets into actionable knowledge. It provides students with the skills and knowledge needed to develop competencies in managing data science and analytics projects and working with data analytics tools and technologies. The program is aimed at helping to educate a new generation of information professionals capable of taking the leadership role by connecting the dots and using data to support strategic initiatives within the organization.
+
+The program focuses on relevant areas including -
+Statistical analysis, Natural language processing, Computational linguistics, Information retrieval, Information visualization, Social network analysis, Text analytics and data mining
+
+Course Overview -
+As a student in the Data Science program you'll have the flexibility to choose from a range of courses that are meant to challenge and prepare you for your career in data science. The program in Denton, Texas offers students the flexibility to select a combination of face-to-face, online and blended courses. The program is also offered completely online. The degree requires a minimum of 36 credit hours for a total of 12 courses. Students will take 3 core courses that will help provide a foundation for data science and data analytics, 5 courses of guided electives which focus on advanced topics in data science and analytics and 3 general electives. A 3 credit hour practicum/internship or a research project is also required to help put what you have learned into practice.
+
+What to Expect -
+The Data Science program can be completed 100% online. The program can also be completed onsite in Denton, TX with opportunity to choose from classes offered in-person, in a hybrid format, or completely online. With guidance from an advisor, students will be able to select from classes to suit their interests and career focus. The Data Science degree at UNT helps prepare students to be among the best in a field that continues to grow, with job opportunities that span many industries. Learn from our expert faculty who have a range of experience in data science and other related fields, who are conducting innovative research, and continue to be knowledgeable about the technology and tools necessary to be a successful data scientist. The many resources available to you as a UNT student will only help to enhance your experience. Collaborate with other students on projects and share ideas by joining the UNT Data Science Student Organization. Network and gain insight into data science related careers through events such as Data Science Day.
+
+Research Resources -
+Research labs and centers (https://ci.unt.edu/research/centers-and-labs.html) on campus provide the resources necessary to conduct in-depth study in your field. These include the UNT College of Information's Data Innovation Lab (https://ci.unt.edu/datainnovationlab/), the Intelligent Information Access Lab (https://ci.unt.edu/iia/), the Data Visualization and Extreme Reality Lab (https://ci.unt.edu/dvxr/), the Visual Thinking Lab, and others. The Department of Information Science is a member of key organizations and consortiums that provide unique research opportunities for our students. We are a member of the prestigious iSchools organization, a consortium of Information Schools dedicated to advancing the information field.
+
+Innovative Course Delivery - The program in Denton, Texas offers students the flexibility to select a combination of face-to-face, online and blended courses.
+
+Marketable skills - M.S. Data Science 1. Computer programming, 2. Database design and data modeling, 3.Applied statistical analysis and machine learning, 4. Data mining and text analysis, 5. Data visualization and presentation.

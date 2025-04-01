@@ -1,0 +1,212 @@
+Students in the Master of Science in Data Science degree program are required to complete a minimum of 36 credit hours (12 courses). They include: Required (Core courses) - 9 credit hours, Guided Electives - 15 credit hours, General Electives - 6-9 credit hours, Internship/Research project - 3-6 credit hours, Additional information and details about courses are found below.
+
+For students that 1st enrolled in Fall 2022 & subsequent semesters -
+Required courses, 9 credit hours
+(Note: The three required core courses outlined below require knowledge of college-level linear algebra, calculus II, probability, and statistics (Admission requirements for the M.S program).
+INFO 5501 or DTSC 5501 - Fundamentals of Data Analytics 
+INFO 5502 or DTSC 5502 - Principles and Techniques for Data Science
+INFO 5505 or DTSC 5505 - Applied Machine Learning for Data Scientists
+Guided electives, 15 credit hours
+The guided electives are courses with advanced topics in both data science and data analytics. Students choose from the following courses which concentrate on specific methodologies and tools in data science and data analytics.
+
+Students must take 15 hours from the following list of courses.
+
+CSCE 5213 - Modeling and Simulation
+CSCE 5218 - Deep Learning
+CSCE 5300 - Introduction to Big Data and Data Science
+DSCI 5240 - Data Mining and Machine Learning for Business
+or
+CSCE 5380 - Data Mining
+DSCI 5330 - Enterprise Applications of Business Intelligence
+DSCI 5340 - Predictive Analytics and Business Forecasting
+DTSC 5777 - Virtual Reality and its Applications
+DTSC 5565 - Software Engineering for Data Scientists
+INFO 5040 - Information Behavior
+INFO 5206 - Information Retrieval Design
+INFO 5307 - Knowledge Management Tools and Technologies
+INFO 5503 - Knowledge Management Processes and Practices
+INFO 5810 - Data Analysis and Knowledge Discovery
+ADTA 5230 - Data Analytics II
+DSCI 5360 - Data Visualization for Analytics
+or
+INFO 5709 - Data Visualization and Communication
+LING 5410 - Computational Linguistics I
+LING 5412 - NLP in Linguistics
+LING 5415 - Computational Linguistics II
+General electives,  6-9 credit hours
+Students may take up to 9 credit hours from the following list of courses. Students are allowed to pursue courses from outside this list and in their areas of interest with the approval of the advisor or can select additional courses from the Guided Electives list.
+
+CSCE 5200 - Information Retrieval and Web Search
+CSCE 5214 - Software Development for Artificial Intelligence
+CSCE 5216 - Pattern Recognition
+DTSC 5777 - Virtual Reality and its Applications
+DTSC 5565 - Software Engineering for Data Scientists
+INFO 5091 - Data Science Internship
+INFO 5200 - Information Organization
+INFO 5205 - Information Indexing, Abstracting and Retrieval
+INFO 5223 - Metadata for Information Organization and Retrieval I
+INFO 5224 - Metadata for Information Organization and Retrieval II
+INFO 5305 - Systems Analysis and Design
+INFO 5365 - Health Sciences Information Management
+INFO 5637 - Medical Informatics
+INFO 5707 - Data Modeling for Information Professionals
+INFO 5731 - Computational Methods for Information Systems
+INFO 5735 - Usability and User Experience Metrics
+INFO 5737 - Information and Cyber-Security
+INFO 5745 - Information Architecture
+INFO 5770 - Introduction to Health Data Analytics
+INFO 6050 - Health Research Methodology
+LTEC 5300 - Learning and Cognition
+LTEC 5320 - Contemporary Issues in Workforce Learning and Performance
+LING 5405 - Python Programming for Text
+Practicum/research project/thesis, 3-6 credit hours
+DTSC 5082 - Seminar in Research and Research Methodology (DTSC 5082 Course Request).
+
+OR
+INFO 5090 - Practicum and Internship in the Field Study (DS Practicum Process) - the practicum requirement cannot be waived for Data Science MS students.
+
+In addition to the courses listed above from the UNT Catalog, the following are also approved courses for the M.S. Data Science degree:
+
+ADTA 5240 - Guided Elective - Cannot also take DSCI 5240 (or CSCE 5380 for students beginning Fall 2022 or later)
+ADTA 5250 - Guided Elective - Cannot also take INFO 5709 or DSCI 5360
+ADTA 5340 - Guided Elective - Cannot also take DSCI 5340
+ADTA 5550 - Guided Elective - Requires prerequisite of either ADTA 5240 or ADTA 5340
+DTSC 5777 - Guided Elective 
+LTEC 5703 - General Elective
+If you have questions about any other courses beyond those listed above and on the UNT Catalog page for your degree, please reach out to the Academic Advising office via ci-advising@unt.edu. 
+
+For students that 1st enrolled in Fall 2021-Summer 2022
+Required courses, 9 credit hours
+
+(Note: The required core courses outlined below require knowledge of college level linear algebra, calculus II, probability, and statistics (Admission requirements for the M.S program).
+
+INFO 5501 or DTSC 5501 - Fundamentals of Data Analytics 
+INFO 5502 or DTSC 5502 - Principles and Techniques for Data Science
+INFO 5505 - Applied Machine Learning for Data Scientists
+
+Guided electives, 15 credit hours
+The guided electives are courses with advanced topics in both data science and data analytics. Students choose from the following courses which concentrate on specific methodologies and tools in data science and data analytics.
+
+Students must take 15 hours from the following list of courses.
+
+BCIS 5600 - Visual Information Technologies
+CSCE 5300 - Introduction to Big Data and Data Science
+DSCI 5240 - Data Mining and Machine Learning for Business
+DSCI 5330 - Enterprise Applications of Business Intelligence
+DSCI 5340 - Predictive Analytics and Business Forecasting
+INFO 5307 - Knowledge Management Tools and Technologies
+INFO 5503 - Knowledge Management Processes and Practices
+INFO 5810 - Data Analysis and Knowledge Discovery
+ADTA 5130 - Data Analytics I
+ADTA 5230 - Data Analytics II
+DSCI 5360 - Data Visualization for Analytics
+or
+INFO 5709 - Data Visualization and Communication
+LING 5360 - Studies in Descriptive Linguistics
+or
+LING 6150 - Semantic Ontologies
+General electives, 9 credit hours
+Students may take up to 9 credit hours from the following list of courses. Students are allowed to pursue courses from outside this list and in their areas of interest with the approval of the advisor.
+
+INFO 5091 - Data Science Internship
+INFO 5707 - Data Modeling for Information Professionals
+INFO 5731 - Computational Methods for Information Systems
+INFO 5735 - Usability and User Experience Assessment
+INFO 5737 - Information and Cyber-Security
+INFO 6050 - Health Research Methodology
+LTEC 5320 - Contemporary Issues in Workforce Learning and Performance
+LTEC 5300 - Learning and Cognition
+LING 5410 - Computational Linguistics I
+LING 5530 - Semantics and Pragmatics I
+LING 5550 - Corpus Linguistics
+LING 5560 - Discourse Analysis
+LING 5360 - Studies in Descriptive Linguistics 
+(when the topic is “Data Analysis in Human Language Technology I”)
+or
+LING 6060 - Data Analysis in Human Language Technology (HLT) I
+LING 5360 - Studies in Descriptive Linguistics 
+(when topic is “Natural Language Processing”)
+or
+LING 6130 - Natural Language Processing
+LING 5360 - Studies in Descriptive Linguistics 
+(when the topic is “Data Analysis in Human Language Technology II”)
+or
+LING 6140 - Data Analysis in Human Language Technology (HLT) II
+Practicum/research project/thesis, 3 credit hours
+DTSC 5082 - Seminar in Research and Research Methodology (DTSC 5082 Course Request)
+INFO 5090 - Practicum and Internship in the Field Study (DS Practicum Process)
+In addition to the courses listed above from the UNT Catalog, the following are also approved courses for the M.S. Data Science degree:
+
+ADTA 5240 - Guided Elective - Cannot also take DSCI 5240 (or CSCE 5380 for students beginning Fall 2022 or later)
+ADTA 5250 - Guided Elective - Cannot also take INFO 5709 or DSCI 5360
+ADTA 5340 - Guided Elective - Cannot also take DSCI 5340
+ADTA 5550 - Guided Elective - Requires prerequisite of either ADTA 5240 or ADTA 5340
+DTSC 5777 - Guided Elective 
+LTEC 5703 - General Elective
+If you have questions about any other courses beyond those listed above and on the UNT Catalog page for your degree, please reach out to the Academic Advising office via ci-advising@unt.edu. 
+
+
+For students that 1st enrolled in Fall 2020- Summer 2021
+Required courses, 9 credit hours
+(Note: The required core courses outlined below require knowledge of college level linear algebra, calculus II, probability, and statistics (Admission requirements for the M.S program).
+
+INFO 5501 or DTSC 5501 - Fundamentals of Data Analytics
+INFO 5502 or DTSC 5502 - Analytic Tools, Techniques and Methods
+INFO 5709 - Data Visualization and Communication
+Guided electives, 15 credit hours
+The guided electives are courses with advanced topics in both data science and data analytics. The student can choose from the following courses which concentrate on specific methodologies and tools in data science and data analytics.
+
+Students must take 15 hours from the following list of courses:  
+
+BCIS 5600 - Visual Information Technologies
+CSCE 5300 - Introduction to Big Data and Data Science
+DSCI 5240 - Data Mining and Machine Learning for Business
+DSCI 5330 - Enterprise Applications of Business Intelligence
+DSCI 5340 - Predictive Analytics and Business Forecasting
+DSCI 5360 - Data Visualization for Analytics
+INFO 5307 - Knowledge Management Tools and Technologies
+INFO 5503 - Knowledge Management Processes and Practices
+INFO 5810 - Data Analysis and Knowledge Discovery
+ADTA 5130 - Data Analytics I
+ADTA 5230 - Data Analytics II
+LING 5360 - Studies in Descriptive Linguistics
+                      or
+LING 6150 - Semantic Ontologies
+General electives, 9 credit hours
+Students must take 9 hours from the following list of courses. They are allowed to pursue courses from outside this list and in their areas of interest with the approval of the advisor.
+
+INFO 5707 - Data Modeling for Information Professionals
+INFO 5731 - Computational Methods for Information Systems
+INFO 5735 - Usability and User Experience Assessment
+INFO 5737 - Information and Cyber-Security
+INFO 6050 - Health Research Methodology
+LTEC 5320 - Contemporary Issues in Workforce Learning and Performance
+LTEC 5300 - Learning and Cognition
+LING 5410 - Computational Linguistics I
+LING 5530 - Semantics and Pragmatics I
+LING 5550 - Corpus Linguistics
+LING 5560 - Discourse Analysis
+LING 5360 - Studies in Descriptive Linguistics 
+(when the topic is “Data Analysis in Human Language Technology I”)
+or
+LING 6060 - Data Analysis in Human Language Technology (HLT) I
+LING 5360 - Studies in Descriptive Linguistics 
+(when topic is “Natural Language Processing”)
+or
+LING 6130 - Natural Language Processing
+LING 5360 - Studies in Descriptive Linguistics 
+(when the topic is “Data Analysis in Human Language Technology II”)
+or
+LING 6140 - Data Analysis in Human Language Technology (HLT) II
+Internship/research project, 3 credit hours
+DTSC 5082 - Seminar in Research and Research Methodology (DTSC 5082 Course Request)
+INFO 5090 - Practicum and Internship in the Field Study (DS Practicum Process)
+In addition to the courses listed above from the UNT Catalog, the following are also approved courses for the M.S. Data Science degree:
+
+ADTA 5240 - Guided Elective - Cannot also take DSCI 5240 (or CSCE 5380 for students beginning Fall 2022 or later)
+ADTA 5250 - Guided Elective - Cannot also take INFO 5709 or DSCI 5360
+ADTA 5340 - Guided Elective - Cannot also take DSCI 5340
+ADTA 5550 - Guided Elective - Requires prerequisite of either ADTA 5240 or ADTA 5340
+DTSC 5777 - Guided Elective 
+LTEC 5703 - General Elective
+If you have questions about any other courses beyond those listed above and on the UNT Catalog page for your degree, please reach out to the Academic Advising office via ci-advising@unt.edu.
